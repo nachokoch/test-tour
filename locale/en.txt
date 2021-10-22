@@ -1,0 +1,18 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = TestLiveChat
+
+## Media
+
+### Title
+panorama_A5220977_A863_E9E4_41B7_05CFB7D72EC3.label = circus_arena
+
+## Hotspot
+
+### URL
+FramePanoramaOverlay_A703225D_A8AB_9949_41CE_59EAA47A752F.url = //www.youtube.com/embed/96YSJm7Sa-E?v=96YSJm7Sa-E
