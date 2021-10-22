@@ -7,6 +7,12 @@
 ### Title
 tour.name = TestLiveChat
 
+## Skin
+
+### Multiline Text
+HTMLText_BF2A0364_A9F8_7F7F_417C_8DA4CC8EA120.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:40px;"><B>Click here to start the tour</B></SPAN></SPAN></DIV></div>
+HTMLText_BF75D749_A9E9_A748_41E0_967B4198761E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:40px;"><B>Welcome to TEST</B></SPAN></SPAN></DIV></div>
+
 ## Media
 
 ### Title
